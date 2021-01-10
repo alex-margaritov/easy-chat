@@ -9,6 +9,7 @@
 .pnp.js
 
 # testing
+.eslintcache
 /coverage
 
 # production
